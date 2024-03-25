@@ -4,3 +4,4 @@ data
 cal 
 echo "bye"
 pwd
+ls 
